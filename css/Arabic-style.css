@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align:right;	
+	/*font-family:"aga_cordoba_v3_b17regular";
+	font-size:20px;*/
+}
+.mainHeader p{
+	float:left;
+}
+.mainHeader nav ul li:first-child{
+	margin-right:35px;
+}
+.mainHeader nav ul li{
+	float:right;	
+}
+.sidebars aside{
+	margin-right:0%;	
+}
+.content{
+	float:left;	
+}
+
+.pagination li{	
+	float:right;
+}

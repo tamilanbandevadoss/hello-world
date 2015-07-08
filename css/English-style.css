@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align:left;
+	/*font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size:87.5%;*/	
+}
+.mainHeader p{
+	float:right;
+}
+.mainHeader nav ul li:first-child{
+	margin-right:0;
+}
+.mainHeader nav ul li{
+	float:left;	
+}
+.sidebars aside{
+	margin-right:2%;	
+}
+.content{
+	float:right;	
+}
+
+.pagination li{	
+	float:left;
+}
